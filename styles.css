@@ -153,6 +153,12 @@ ul.skills-list li:first-child {
     display: inline-block;
 }
 
+.projects-get-in-contact {
+    font-size: 14px;
+    font-size: 14px;
+    font-weight: 300;
+    padding-bottom: 16px;
+}
 
 * {
     box-sizing: border-box;
