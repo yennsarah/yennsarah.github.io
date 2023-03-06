@@ -10,6 +10,7 @@
     width: calc(100% - 40px);
     max-width: 720px;
     min-height: 80vh;
+    height: 100%;
     margin: auto
 }
 
@@ -176,6 +177,6 @@ footer {
     font-size: 12px;
     font-family: "Courier New";
     color: #424242;
-    margin: 10px 20px 80px 20px;
+    padding: 16px 0px 80px 16px;
     text-align: right;
 }
